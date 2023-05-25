@@ -1,0 +1,64 @@
+{
+	"game":
+	[
+  {
+		"0":"6",
+		"id":"6",
+		"1":"Find Me",
+		"game":"Find Me",
+		"2":"https://demonisblack.com/code/2022/findme/game/",
+		"main":"https://demonisblack.com/code/2022/findme/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_findme.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_findme.png"
+	},
+  {
+		"0":"5",
+		"id":"5",
+		"1":"Defusethe Bomb",
+		"game":"Defusethe Bomb",
+		"2":"https://www.demonisblack.com/code/2021/defusethebomb/game/",
+		"main":"https://www.demonisblack.com/code/2021/defusethebomb/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_defusethebomb.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_defusethebomb.png"
+	},
+  {
+		"0":"4",
+		"id":"4",
+		"1":"Drum Beats",
+		"game":"Drum Beats",
+		"2":"https://demonisblack.com/code/2019/drumbeats/game/",
+		"main":"https://demonisblack.com/code/2019/drumbeats/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_drumbeats.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_drumbeats.png"
+	},
+  {
+		"0":"3",
+		"id":"3",
+		"1":"Millionaire Quiz",
+		"game":"Millionaire Quiz",
+		"2":"https://www.demonisblack.com/code/2020/millionairequiz/game/",
+		"main":"https://www.demonisblack.com/code/2020/millionairequiz/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_millionairequiz.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_millionairequiz.png"
+	},
+  {
+		"0":"2",
+		"id":"2",
+		"1":"Downhill Ski",
+		"game":"Downhill Ski",
+		"2":"https://demonisblack.com/code/2022/downhillski/game/",
+		"main":"https://demonisblack.com/code/2022/downhillski/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_downhillski.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_downhillski.png"
+	},
+	{
+		"0":"1",
+		"id":"1",
+		"1":"Slot Machine",
+		"game":"Slot Machine",
+		"2":"https://demonisblack.com/code/2019/slotmachine/game/",
+		"main":"https://demonisblack.com/code/2019/slotmachine/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_slot_machine.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_slot_machine.png"
+	}]
+}
