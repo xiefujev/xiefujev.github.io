@@ -2,6 +2,16 @@
 	"game":
 	[
 	{
+		"0":"15",
+		"id":"15",
+		"1":"Lucky Wheels",
+		"game":"Lucky Wheels",
+		"2":"https://demonisblack.com/code/2017/luckywheels/game/",
+		"main":"https://demonisblack.com/code/2017/luckywheels/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_luckywheels.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_luckywheels.png"
+	},
+	{
 		"0":"14",
 		"id":"14",
 		"1":"New Soccer",
@@ -14,32 +24,32 @@
 	{
 		"0":"13",
 		"id":"13",
-		"1":"Solitaire Klondike",
-		"game":"Solitaire Klondike",
-		"2":"https://play.famobi.com/solitaire-klondike/A1000-10",
-		"main":"https://play.famobi.com/solitaire-klondike/A1000-10",
-		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_solitaire_klondike.png",
-		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_solitaire_klondike.png"
+		"1":"Speed Racer",
+		"game":"Speed Racer",
+		"2":"https://demonisblack.com/code/2017/speedracer/game/",
+		"main":"https://demonisblack.com/code/2017/speedracer/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_speedracer.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_speedracer.png"
 	},
 	{
 		"0":"12",
 		"id":"12",
-		"1":"3d Free Kick",
-		"game":"3d Free Kick",
-		"2":"https://play.famobi.com/3d-free-kick/A1000-10",
-		"main":"https://play.famobi.com/3d-free-kick/A1000-10",
-		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_3d_free_kick.png",
-		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_3d_free_kick.png"
+		"1":"Bingo Bash",
+		"game":"Bingo Bash",
+		"2":"https://demonisblack.com/code/2017/bingobash/game/",
+		"main":"https://demonisblack.com/code/2017/bingobash/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_bingobash.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_bingobash.png"
 	},
 	{
 		"0":"11",
 		"id":"11",
-		"1":"Moto x3m Pool Party",
-		"game":"Moto x3m Pool Party",
-		"2":"https://play.famobi.com/moto-x3m-pool-party/A1000-10",
-		"main":"https://play.famobi.com/moto-x3m-pool-party/A1000-10",
-		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_moto_x3m_pool_party.png",
-		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_moto_x3m_pool_party.png"
+		"1":"Zombie Attack",
+		"game":"Zombie Attack",
+		"2":"https://demonisblack.com/code/2023/zombieattack/game/",
+		"main":"https://demonisblack.com/code/2023/zombieattack/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_zombieattack.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_zombieattack.png"
 	},
 	{
 		"0":"10",
