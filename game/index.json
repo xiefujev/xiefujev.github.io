@@ -2,6 +2,56 @@
 	"game":
 	[
 	{
+		"0":"20",
+		"id":"20",
+		"1":"Pipe Flow",
+		"game":"Pipe Flow",
+		"2":"https://demonisblack.com/code/2019/pipeflow/game/",
+		"main":"https://demonisblack.com/code/2019/pipeflow/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_pipeflow.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_pipeflow.png"
+	},
+	{
+		"0":"19",
+		"id":"19",
+		"1":"Tap Supermarket",
+		"game":"Tap Supermarket",
+		"2":"https://demonisblack.com/code/2020/tapsupermarket/game/",
+		"main":"https://demonisblack.com/code/2020/tapsupermarket/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_tapsupermarket.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_tapsupermarket.png"
+	},
+	{
+		"0":"18",
+		"id":"18",
+		"1":"Rearrange Letters 2",
+		"game":"Rearrange Letters 2",
+		"2":"https://demonisblack.com/code/2019/rearrangeletters2/game/",
+		"main":"https://demonisblack.com/code/2019/rearrangeletters2/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_superblocks.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_superblocks.png"
+	},
+	{
+		"0":"17",
+		"id":"17",
+		"1":"Super Blocks",
+		"game":"Super Blocks",
+		"2":"https://demonisblack.com/code/2022/superblocks/game/",
+		"main":"https://demonisblack.com/code/2022/superblocks/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_superblocks.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_superblocks.png"
+	},
+	{
+		"0":"16",
+		"id":"16",
+		"1":"Memory Game",
+		"game":"Memory Game",
+		"2":"https://demonisblack.com/code/2022/memorygame/game/",
+		"main":"https://demonisblack.com/code/2022/memorygame/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_memorygame.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_memorygame.png"
+	},
+	{
 		"0":"15",
 		"id":"15",
 		"1":"Lucky Wheels",
@@ -44,12 +94,12 @@
 	{
 		"0":"11",
 		"id":"11",
-		"1":"Zombie Attack",
-		"game":"Zombie Attack",
-		"2":"https://demonisblack.com/code/2023/zombieattack/game/",
-		"main":"https://demonisblack.com/code/2023/zombieattack/game/",
-		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_zombieattack.png",
-		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_zombieattack.png"
+		"1":"Liquid Sort",
+		"game":"Liquid Sort",
+		"2":"https://demonisblack.com/code/2022/liquidsort/game/",
+		"main":"https://demonisblack.com/code/2022/liquidsort/game/",
+		"3":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_liquidsort.png",
+		"pic":"https://raw.githubusercontent.com/xiefujev/xiefujev.github.io/main/assets/img/game/ss_liquidsort.png"
 	},
 	{
 		"0":"10",
